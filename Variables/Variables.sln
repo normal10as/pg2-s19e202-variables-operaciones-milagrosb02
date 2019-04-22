@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "aritmetica", "..\..\..\aritmetica\aritmetica\aritmetica.vbproj", "{85B62D6E-ADC2-4E0C-B6A9-87DB7A0D3AEF}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ecuacion", "..\..\..\ecuacion\ecuacion\ecuacion.vbproj", "{2F523304-E921-489B-9910-BC04C6A3DF63}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "mediasumatoria", "..\..\..\mediasumatoria\mediasumatoria\mediasumatoria.vbproj", "{62DF9DFA-1029-4395-94BC-F4011AC8FA63}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "semanas", "..\..\..\semanas\semanas\semanas.vbproj", "{AC22BD76-EAC0-4596-87B3-36745D5517C6}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_consola", "..\..\..\variables_consola\variables_consola\variables_consola.vbproj", "{6B8216A2-E0F2-4A51-A64C-EB97087BD1B8}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_tipos", "..\..\..\variables_tipos\variables_tipos\variables_tipos.vbproj", "{66F1D62B-7295-47E1-A8E9-FFDFADED5325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85B62D6E-ADC2-4E0C-B6A9-87DB7A0D3AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B62D6E-ADC2-4E0C-B6A9-87DB7A0D3AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B62D6E-ADC2-4E0C-B6A9-87DB7A0D3AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B62D6E-ADC2-4E0C-B6A9-87DB7A0D3AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F523304-E921-489B-9910-BC04C6A3DF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F523304-E921-489B-9910-BC04C6A3DF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F523304-E921-489B-9910-BC04C6A3DF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F523304-E921-489B-9910-BC04C6A3DF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DF9DFA-1029-4395-94BC-F4011AC8FA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DF9DFA-1029-4395-94BC-F4011AC8FA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DF9DFA-1029-4395-94BC-F4011AC8FA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DF9DFA-1029-4395-94BC-F4011AC8FA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC22BD76-EAC0-4596-87B3-36745D5517C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC22BD76-EAC0-4596-87B3-36745D5517C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC22BD76-EAC0-4596-87B3-36745D5517C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC22BD76-EAC0-4596-87B3-36745D5517C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8216A2-E0F2-4A51-A64C-EB97087BD1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8216A2-E0F2-4A51-A64C-EB97087BD1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8216A2-E0F2-4A51-A64C-EB97087BD1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8216A2-E0F2-4A51-A64C-EB97087BD1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F1D62B-7295-47E1-A8E9-FFDFADED5325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F1D62B-7295-47E1-A8E9-FFDFADED5325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F1D62B-7295-47E1-A8E9-FFDFADED5325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F1D62B-7295-47E1-A8E9-FFDFADED5325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F6E779-CB28-44F2-8D19-CF969B6921CE}
+	EndGlobalSection
+EndGlobal
