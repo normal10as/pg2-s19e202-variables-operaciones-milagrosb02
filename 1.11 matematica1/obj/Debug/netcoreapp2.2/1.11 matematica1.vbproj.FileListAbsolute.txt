@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\bin\Debug\netcoreapp2.2\1.11 matematica1.deps.json
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\bin\Debug\netcoreapp2.2\1.11 matematica1.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\bin\Debug\netcoreapp2.2\1.11 matematica1.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\bin\Debug\netcoreapp2.2\1.11 matematica1.dll
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\bin\Debug\netcoreapp2.2\1.11 matematica1.pdb
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\obj\Debug\netcoreapp2.2\1.11 matematica1.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\obj\Debug\netcoreapp2.2\1.11 matematica1.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\obj\Debug\netcoreapp2.2\1.11 matematica1.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\obj\Debug\netcoreapp2.2\1.11 matematica1.dll
+C:\Users\Mili\source\repos\Variabless\1.11 matematica1\obj\Debug\netcoreapp2.2\1.11 matematica1.pdb

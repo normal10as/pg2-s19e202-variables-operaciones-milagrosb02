@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\bin\Debug\netcoreapp2.2\1.13 mayorr.deps.json
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\bin\Debug\netcoreapp2.2\1.13 mayorr.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\bin\Debug\netcoreapp2.2\1.13 mayorr.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\bin\Debug\netcoreapp2.2\1.13 mayorr.dll
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\bin\Debug\netcoreapp2.2\1.13 mayorr.pdb
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\obj\Debug\netcoreapp2.2\1.13 mayorr.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\obj\Debug\netcoreapp2.2\1.13 mayorr.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\obj\Debug\netcoreapp2.2\1.13 mayorr.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\obj\Debug\netcoreapp2.2\1.13 mayorr.dll
+C:\Users\Mili\source\repos\Variabless\1.13 mayorr\obj\Debug\netcoreapp2.2\1.13 mayorr.pdb

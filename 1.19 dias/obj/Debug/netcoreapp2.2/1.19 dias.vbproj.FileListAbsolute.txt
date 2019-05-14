@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\1.19 dias\bin\Debug\netcoreapp2.2\1.19 dias.deps.json
+C:\Users\Mili\source\repos\Variabless\1.19 dias\bin\Debug\netcoreapp2.2\1.19 dias.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.19 dias\bin\Debug\netcoreapp2.2\1.19 dias.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.19 dias\bin\Debug\netcoreapp2.2\1.19 dias.dll
+C:\Users\Mili\source\repos\Variabless\1.19 dias\bin\Debug\netcoreapp2.2\1.19 dias.pdb
+C:\Users\Mili\source\repos\Variabless\1.19 dias\obj\Debug\netcoreapp2.2\1.19 dias.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Variabless\1.19 dias\obj\Debug\netcoreapp2.2\1.19 dias.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.19 dias\obj\Debug\netcoreapp2.2\1.19 dias.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.19 dias\obj\Debug\netcoreapp2.2\1.19 dias.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.19 dias\obj\Debug\netcoreapp2.2\1.19 dias.dll
+C:\Users\Mili\source\repos\Variabless\1.19 dias\obj\Debug\netcoreapp2.2\1.19 dias.pdb

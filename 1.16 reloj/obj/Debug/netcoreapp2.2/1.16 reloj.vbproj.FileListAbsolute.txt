@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\bin\Debug\netcoreapp2.2\1.16 reloj.deps.json
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\bin\Debug\netcoreapp2.2\1.16 reloj.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\bin\Debug\netcoreapp2.2\1.16 reloj.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\bin\Debug\netcoreapp2.2\1.16 reloj.dll
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\bin\Debug\netcoreapp2.2\1.16 reloj.pdb
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\obj\Debug\netcoreapp2.2\1.16 reloj.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\obj\Debug\netcoreapp2.2\1.16 reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\obj\Debug\netcoreapp2.2\1.16 reloj.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\obj\Debug\netcoreapp2.2\1.16 reloj.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\obj\Debug\netcoreapp2.2\1.16 reloj.dll
+C:\Users\Mili\source\repos\Variabless\1.17 reloj\obj\Debug\netcoreapp2.2\1.16 reloj.pdb

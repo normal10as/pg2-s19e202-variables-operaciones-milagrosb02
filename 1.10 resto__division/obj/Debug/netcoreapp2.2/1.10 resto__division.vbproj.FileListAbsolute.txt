@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\bin\Debug\netcoreapp2.2\1.10 resto__division.deps.json
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\bin\Debug\netcoreapp2.2\1.10 resto__division.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\bin\Debug\netcoreapp2.2\1.10 resto__division.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\bin\Debug\netcoreapp2.2\1.10 resto__division.dll
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\bin\Debug\netcoreapp2.2\1.10 resto__division.pdb
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\obj\Debug\netcoreapp2.2\1.10 resto__division.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\obj\Debug\netcoreapp2.2\1.10 resto__division.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\obj\Debug\netcoreapp2.2\1.10 resto__division.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\obj\Debug\netcoreapp2.2\1.10 resto__division.dll
+C:\Users\Mili\source\repos\Variabless\1.10 resto__division\obj\Debug\netcoreapp2.2\1.10 resto__division.pdb

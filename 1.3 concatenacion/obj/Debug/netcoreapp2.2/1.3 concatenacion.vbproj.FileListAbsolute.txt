@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\bin\Debug\netcoreapp2.2\1.3 concatenacion.deps.json
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\bin\Debug\netcoreapp2.2\1.3 concatenacion.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\bin\Debug\netcoreapp2.2\1.3 concatenacion.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\bin\Debug\netcoreapp2.2\1.3 concatenacion.dll
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\bin\Debug\netcoreapp2.2\1.3 concatenacion.pdb
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\obj\Debug\netcoreapp2.2\1.3 concatenacion.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\obj\Debug\netcoreapp2.2\1.3 concatenacion.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\obj\Debug\netcoreapp2.2\1.3 concatenacion.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\obj\Debug\netcoreapp2.2\1.3 concatenacion.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\obj\Debug\netcoreapp2.2\1.3 concatenacion.dll
+C:\Users\Mili\source\repos\Variabless\1.3 concatenacion\obj\Debug\netcoreapp2.2\1.3 concatenacion.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\bin\Debug\netcoreapp2.2\1.5 ecuacion.deps.json
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\bin\Debug\netcoreapp2.2\1.5 ecuacion.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\bin\Debug\netcoreapp2.2\1.5 ecuacion.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\bin\Debug\netcoreapp2.2\1.5 ecuacion.dll
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\bin\Debug\netcoreapp2.2\1.5 ecuacion.pdb
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\obj\Debug\netcoreapp2.2\1.5 ecuacion.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\obj\Debug\netcoreapp2.2\1.5 ecuacion.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\obj\Debug\netcoreapp2.2\1.5 ecuacion.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\obj\Debug\netcoreapp2.2\1.5 ecuacion.dll
+C:\Users\Mili\source\repos\Variabless\1.5 ecuacion\obj\Debug\netcoreapp2.2\1.5 ecuacion.pdb

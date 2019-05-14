@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\bin\Debug\netcoreapp2.2\1.17 ajustar_reloj.deps.json
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\bin\Debug\netcoreapp2.2\1.17 ajustar_reloj.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\bin\Debug\netcoreapp2.2\1.17 ajustar_reloj.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\bin\Debug\netcoreapp2.2\1.17 ajustar_reloj.dll
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\bin\Debug\netcoreapp2.2\1.17 ajustar_reloj.pdb
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\obj\Debug\netcoreapp2.2\1.17 ajustar_reloj.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\obj\Debug\netcoreapp2.2\1.17 ajustar_reloj.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\obj\Debug\netcoreapp2.2\1.17 ajustar_reloj.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\obj\Debug\netcoreapp2.2\1.17 ajustar_reloj.dll
+C:\Users\Mili\source\repos\Variabless\1.17 ajustar_reloj\obj\Debug\netcoreapp2.2\1.17 ajustar_reloj.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\bin\Debug\netcoreapp2.2\1.6 suma_promedio.deps.json
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\bin\Debug\netcoreapp2.2\1.6 suma_promedio.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\bin\Debug\netcoreapp2.2\1.6 suma_promedio.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\bin\Debug\netcoreapp2.2\1.6 suma_promedio.dll
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\bin\Debug\netcoreapp2.2\1.6 suma_promedio.pdb
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\obj\Debug\netcoreapp2.2\1.6 suma_promedio.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\obj\Debug\netcoreapp2.2\1.6 suma_promedio.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\obj\Debug\netcoreapp2.2\1.6 suma_promedio.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\obj\Debug\netcoreapp2.2\1.6 suma_promedio.dll
+C:\Users\Mili\source\repos\Variabless\1.6 suma-media\obj\Debug\netcoreapp2.2\1.6 suma_promedio.pdb

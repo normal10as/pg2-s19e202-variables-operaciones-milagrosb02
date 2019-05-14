@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\cadenas\bin\Debug\cadenas.exe.config
+C:\Users\Mili\source\repos\Variabless\cadenas\bin\Debug\cadenas.exe
+C:\Users\Mili\source\repos\Variabless\cadenas\bin\Debug\cadenas.pdb
+C:\Users\Mili\source\repos\Variabless\cadenas\bin\Debug\cadenas.xml
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.Resources.resources
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.vbproj.GenerateResource.cache
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.exe
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.xml
+C:\Users\Mili\source\repos\Variabless\cadenas\obj\Debug\cadenas.pdb

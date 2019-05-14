@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\bin\Debug\netcoreapp2.2\1.2- variables-tipos.deps.json
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\bin\Debug\netcoreapp2.2\1.2- variables-tipos.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\bin\Debug\netcoreapp2.2\1.2- variables-tipos.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\bin\Debug\netcoreapp2.2\1.2- variables-tipos.dll
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\bin\Debug\netcoreapp2.2\1.2- variables-tipos.pdb
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\obj\Debug\netcoreapp2.2\1.2- variables-tipos.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\obj\Debug\netcoreapp2.2\1.2- variables-tipos.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\obj\Debug\netcoreapp2.2\1.2- variables-tipos.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\obj\Debug\netcoreapp2.2\1.2- variables-tipos.dll
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\obj\Debug\netcoreapp2.2\1.2- variables-tipos.pdb
+C:\Users\Mili\source\repos\Variabless\1.2- variables-tipos\obj\Debug\netcoreapp2.2\1.2- variables-tipos.vbprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\bin\Debug\netcoreapp2.2\1.7 equivalencia_dias.deps.json
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\bin\Debug\netcoreapp2.2\1.7 equivalencia_dias.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\bin\Debug\netcoreapp2.2\1.7 equivalencia_dias.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\bin\Debug\netcoreapp2.2\1.7 equivalencia_dias.dll
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\bin\Debug\netcoreapp2.2\1.7 equivalencia_dias.pdb
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\obj\Debug\netcoreapp2.2\1.7 equivalencia_dias.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\obj\Debug\netcoreapp2.2\1.7 equivalencia_dias.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\obj\Debug\netcoreapp2.2\1.7 equivalencia_dias.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\obj\Debug\netcoreapp2.2\1.7 equivalencia_dias.dll
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\obj\Debug\netcoreapp2.2\1.7 equivalencia_dias.pdb
+C:\Users\Mili\source\repos\Variabless\1.7 semanas\obj\Debug\netcoreapp2.2\1.7 equivalencia_dias.vbprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\bin\Debug\netcoreapp2.2\1.12 redondeo.deps.json
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\bin\Debug\netcoreapp2.2\1.12 redondeo.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\bin\Debug\netcoreapp2.2\1.12 redondeo.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\bin\Debug\netcoreapp2.2\1.12 redondeo.dll
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\bin\Debug\netcoreapp2.2\1.12 redondeo.pdb
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\obj\Debug\netcoreapp2.2\1.12 redondeo.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\obj\Debug\netcoreapp2.2\1.12 redondeo.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\obj\Debug\netcoreapp2.2\1.12 redondeo.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\obj\Debug\netcoreapp2.2\1.12 redondeo.dll
+C:\Users\Mili\source\repos\Variabless\1.12 redondeo\obj\Debug\netcoreapp2.2\1.12 redondeo.pdb

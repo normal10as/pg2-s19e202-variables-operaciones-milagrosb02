@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\bin\Debug\netcoreapp2.2\variables_consolaa.deps.json
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\bin\Debug\netcoreapp2.2\variables_consolaa.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\bin\Debug\netcoreapp2.2\variables_consolaa.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\bin\Debug\netcoreapp2.2\variables_consolaa.dll
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\bin\Debug\netcoreapp2.2\variables_consolaa.pdb
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\obj\Debug\netcoreapp2.2\variables_consolaa.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\obj\Debug\netcoreapp2.2\variables_consolaa.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\obj\Debug\netcoreapp2.2\variables_consolaa.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\obj\Debug\netcoreapp2.2\variables_consolaa.dll
+C:\Users\Mili\source\repos\Variabless\variables_consolaa\obj\Debug\netcoreapp2.2\variables_consolaa.pdb

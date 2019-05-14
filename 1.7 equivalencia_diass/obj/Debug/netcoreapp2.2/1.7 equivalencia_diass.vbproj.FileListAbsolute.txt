@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\bin\Debug\netcoreapp2.2\1.7 equivalencia_diass.deps.json
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\bin\Debug\netcoreapp2.2\1.7 equivalencia_diass.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\bin\Debug\netcoreapp2.2\1.7 equivalencia_diass.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\bin\Debug\netcoreapp2.2\1.7 equivalencia_diass.dll
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\bin\Debug\netcoreapp2.2\1.7 equivalencia_diass.pdb
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\obj\Debug\netcoreapp2.2\1.7 equivalencia_diass.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\obj\Debug\netcoreapp2.2\1.7 equivalencia_diass.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\obj\Debug\netcoreapp2.2\1.7 equivalencia_diass.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\obj\Debug\netcoreapp2.2\1.7 equivalencia_diass.dll
+C:\Users\Mili\source\repos\Variabless\1.7 equivalencia_diass\obj\Debug\netcoreapp2.2\1.7 equivalencia_diass.pdb

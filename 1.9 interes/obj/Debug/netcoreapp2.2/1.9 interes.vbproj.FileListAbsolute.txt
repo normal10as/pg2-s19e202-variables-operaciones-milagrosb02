@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.9 interes\bin\Debug\netcoreapp2.2\1.9 interes.deps.json
+C:\Users\Mili\source\repos\Variabless\1.9 interes\bin\Debug\netcoreapp2.2\1.9 interes.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.9 interes\bin\Debug\netcoreapp2.2\1.9 interes.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.9 interes\bin\Debug\netcoreapp2.2\1.9 interes.dll
+C:\Users\Mili\source\repos\Variabless\1.9 interes\bin\Debug\netcoreapp2.2\1.9 interes.pdb
+C:\Users\Mili\source\repos\Variabless\1.9 interes\obj\Debug\netcoreapp2.2\1.9 interes.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.9 interes\obj\Debug\netcoreapp2.2\1.9 interes.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.9 interes\obj\Debug\netcoreapp2.2\1.9 interes.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.9 interes\obj\Debug\netcoreapp2.2\1.9 interes.dll
+C:\Users\Mili\source\repos\Variabless\1.9 interes\obj\Debug\netcoreapp2.2\1.9 interes.pdb

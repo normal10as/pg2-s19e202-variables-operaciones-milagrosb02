@@ -1,0 +1,10 @@
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\bin\Debug\netcoreapp2.2\1.8 tabla_booleanaa.deps.json
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\bin\Debug\netcoreapp2.2\1.8 tabla_booleanaa.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\bin\Debug\netcoreapp2.2\1.8 tabla_booleanaa.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\bin\Debug\netcoreapp2.2\1.8 tabla_booleanaa.dll
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\bin\Debug\netcoreapp2.2\1.8 tabla_booleanaa.pdb
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\obj\Debug\netcoreapp2.2\1.8 tabla_booleanaa.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\obj\Debug\netcoreapp2.2\1.8 tabla_booleanaa.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\obj\Debug\netcoreapp2.2\1.8 tabla_booleanaa.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\obj\Debug\netcoreapp2.2\1.8 tabla_booleanaa.dll
+C:\Users\Mili\source\repos\Variabless\1.8 tabla_booleanaa\obj\Debug\netcoreapp2.2\1.8 tabla_booleanaa.pdb

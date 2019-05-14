@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\bin\Debug\netcoreapp2.2\1.4 aritmetica.deps.json
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\bin\Debug\netcoreapp2.2\1.4 aritmetica.runtimeconfig.json
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\bin\Debug\netcoreapp2.2\1.4 aritmetica.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\bin\Debug\netcoreapp2.2\1.4 aritmetica.dll
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\bin\Debug\netcoreapp2.2\1.4 aritmetica.pdb
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\obj\Debug\netcoreapp2.2\1.4 aritmetica.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\obj\Debug\netcoreapp2.2\1.4 aritmetica.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\obj\Debug\netcoreapp2.2\1.4 aritmetica.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\obj\Debug\netcoreapp2.2\1.4 aritmetica.dll
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\obj\Debug\netcoreapp2.2\1.4 aritmetica.pdb
+C:\Users\Mili\source\repos\Variabless\1.4 aritmetica\obj\Debug\netcoreapp2.2\1.4 aritmetica.vbprojAssemblyReference.cache

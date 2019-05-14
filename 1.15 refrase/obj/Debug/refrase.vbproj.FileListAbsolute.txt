@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Variabless\refrase\bin\Debug\refrase.exe.config
+C:\Users\Mili\source\repos\Variabless\refrase\bin\Debug\refrase.exe
+C:\Users\Mili\source\repos\Variabless\refrase\bin\Debug\refrase.pdb
+C:\Users\Mili\source\repos\Variabless\refrase\bin\Debug\refrase.xml
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.Resources.resources
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.vbproj.GenerateResource.cache
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.exe
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.xml
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.pdb
+C:\Users\Mili\source\repos\Variabless\refrase\obj\Debug\refrase.vbprojAssemblyReference.cache
